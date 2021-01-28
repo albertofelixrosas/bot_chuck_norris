@@ -1,0 +1,19 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "Es mi primer bot y estará echo en Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Alberto Félix, Vanessa Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "request": "^2.88.2",
+    "translatte": "^3.0.0"
+  }
+}
